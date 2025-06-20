@@ -15,7 +15,7 @@
             ],
             "date_added": "2025-06-20",
             "requirements": {
-                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "packages": ["huggingface-hub","transformers", "torchcodec", "torch", "torchvision"],
                 "cpu": {
                     "support": true
                 },
@@ -37,7 +37,7 @@
             ],
             "date_added": "2025-06-20",
             "requirements": {
-                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "packages": ["huggingface-hub","transformers", "torchcodec", "torch", "torchvision"],
                 "cpu": {
                     "support": true
                 },
@@ -59,7 +59,7 @@
             ],
             "date_added": "2025-06-20",
             "requirements": {
-                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "packages": ["huggingface-hub","transformers", "torchcodec", "torch", "torchvision"],
                 "cpu": {
                     "support": true
                 },
@@ -81,7 +81,7 @@
             ],
             "date_added": "2025-06-20",
             "requirements": {
-                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "packages": ["huggingface-hub","transformers", "torchcodec", "torch", "torchvision"],
                 "cpu": {
                     "support": true
                 },
@@ -103,7 +103,7 @@
             ],
             "date_added": "2025-06-20",
             "requirements": {
-                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "packages": ["huggingface-hub","transformers", "torchcodec", "torch", "torchvision"],
                 "cpu": {
                     "support": true
                 },
