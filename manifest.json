@@ -1,0 +1,116 @@
+{
+    "name": "VJEPA2",
+    "url": "https://github.com/harpreetsahota204/vjepa2",
+    "models": [
+        {
+            "base_name": "facebook/vjepa2-vitl-fpc64-256",
+            "base_filename":"vjepa2-vitl-fpc64-256",
+            "author": "Meta AI",
+            "license": "MIT",
+            "source": "https://huggingface.co/facebook/vjepa2-vitl-fpc64-256",
+            "description": "V-JEPA 2 is intended to represent any video (and image) to perform video classification, retrieval, or as a video encoder for VLMs.",
+            "tags": [
+                "embeddings",
+                "video"
+            ],
+            "date_added": "2025-06-20",
+            "requirements": {
+                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "cpu": {
+                    "support": true
+                },
+                "gpu": {
+                    "support": true
+                }
+            }
+        },
+        {
+            "base_name": "facebook/vjepa2-vith-fpc64-256",
+            "base_filename":"vjepa2-vith-fpc64-256",
+            "author": "Meta AI",
+            "license": "MIT",
+            "source": "https://huggingface.co/facebook/vjepa2-vith-fpc64-256",
+            "description": "V-JEPA 2 is intended to represent any video (and image) to perform video classification, retrieval, or as a video encoder for VLMs.",
+            "tags": [
+                "embeddings",
+                "video"
+            ],
+            "date_added": "2025-06-20",
+            "requirements": {
+                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "cpu": {
+                    "support": true
+                },
+                "gpu": {
+                    "support": true
+                }
+            }
+        },
+        {
+            "base_name": "facebook/vjepa2-vitg-fpc64-256",
+            "base_filename":"vjepa2-vitg-fpc64-256",
+            "author": "Meta AI",
+            "license": "MIT",
+            "source": "https://huggingface.co/facebook/vjepa2-vitg-fpc64-256",
+            "description": "V-JEPA 2 is intended to represent any video (and image) to perform video classification, retrieval, or as a video encoder for VLMs.",
+            "tags": [
+                "embeddings",
+                "video"
+            ],
+            "date_added": "2025-06-20",
+            "requirements": {
+                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "cpu": {
+                    "support": true
+                },
+                "gpu": {
+                    "support": true
+                }
+            }
+        },
+        {
+            "base_name": "facebook/vjepa2-vitg-fpc64-384",
+            "base_filename":"vjepa2-vitg-fpc64-384",
+            "author": "Meta AI",
+            "license": "MIT",
+            "source": "https://huggingface.co/facebook/vjepa2-vitg-fpc64-384",
+            "description": "V-JEPA 2 is intended to represent any video (and image) to perform video classification, retrieval, or as a video encoder for VLMs.",
+            "tags": [
+                "embeddings",
+                "video"
+            ],
+            "date_added": "2025-06-20",
+            "requirements": {
+                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "cpu": {
+                    "support": true
+                },
+                "gpu": {
+                    "support": true
+                }
+            }
+        },
+        {
+            "base_name": "facebook/vjepa2-vitg-fpc64-384",
+            "base_filename":"vjepa2-vitg-fpc64-384",
+            "author": "Meta AI",
+            "license": "MIT",
+            "source": "https://huggingface.co/facebook/vjepa2-vitg-fpc64-384",
+            "description": "V-JEPA 2 is intended to represent any video (and image) to perform video classification, retrieval, or as a video encoder for VLMs.",
+            "tags": [
+                "embeddings",
+                "video"
+            ],
+            "date_added": "2025-06-20",
+            "requirements": {
+                "packages": ["transformers", "torchcodec", "torch", "torchvision"],
+                "cpu": {
+                    "support": true
+                },
+                "gpu": {
+                    "support": true
+                }
+            }
+        }
+    ]
+}
